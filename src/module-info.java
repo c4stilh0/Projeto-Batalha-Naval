@@ -1,2 +1,2 @@
-module batalha_naval {
+module Faculdade {
 }
